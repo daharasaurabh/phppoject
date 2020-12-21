@@ -1,0 +1,50 @@
+button{
+    border-radius: 10%;
+    width: auto;
+}
+.welcome{
+    text-align: center;
+    margin-bottom: 100px;
+}
+div{
+    text-align: center; 
+}
+button{
+    font-size: 25px;
+    margin-bottom:30px;
+}
+.signup{
+    line-height: 40px;
+    width: 25%;
+    padding: 5%;
+    text-align: left;
+    border-width: auto;
+    border-style: solid;
+    border-color: black;
+    border-radius: 2%;
+}
+.smallp{
+    color: red;
+    font-size: 10px;
+    padding: none;
+    margin: none;
+}
+.img1{
+    float: right;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.para{
+    font-size: 30px;
+    color: red;
+}
+img{
+
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+th{
+    width: 200px;
+}
